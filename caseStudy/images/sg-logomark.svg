@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>logomark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sg-logo">
+            <g id="logomark">
+                <path d="M6.749,3.144 L11.932,22.121 C12.281,23.396 13.595,24.147 14.868,23.799 C16.141,23.449 16.89,22.132 16.542,20.857 L11.358,1.879 C11.009,0.604 9.695,-0.147 8.422,0.202 C7.15,0.551 6.4,1.868 6.749,3.144" id="Shape" fill="#F96316"></path>
+                <path d="M16.347,3.072 L3.367,17.751 C2.492,18.741 2.583,20.255 3.571,21.132 C4.559,22.009 6.069,21.917 6.944,20.927 L19.924,6.248 C20.799,5.258 20.708,3.745 19.72,2.868 C18.732,1.991 17.223,2.082 16.347,3.072" id="Shape" fill="#B200F8"></path>
+                <path d="M1.64,11.207 L20.151,17.339 C21.404,17.755 22.755,17.073 23.17,15.818 C23.585,14.562 22.904,13.208 21.652,12.794 L3.14,6.659 C1.887,6.245 0.536,6.925 0.122,8.181 C-0.293,9.437 0.387,10.791 1.64,11.207" id="Shape" fill="#00B4F2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
